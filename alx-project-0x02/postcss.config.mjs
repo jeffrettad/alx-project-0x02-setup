@@ -1,4 +1,4 @@
-const config = {
+jconst config = {
   plugins: ["@tailwindcss/postcss"],
 };
 
