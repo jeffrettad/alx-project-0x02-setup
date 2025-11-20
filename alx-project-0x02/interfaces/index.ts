@@ -1,4 +1,4 @@
-export interface CardProps {
+kexport interface CardProps {
     title: string;
     content: string;
   }
