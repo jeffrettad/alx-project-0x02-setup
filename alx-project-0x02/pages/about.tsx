@@ -1,4 +1,4 @@
-m["import Button from", "@/components/common/Button", "Button"]
+["import Button from", "@/components/common/Button", "Button"]
 import Header from "@/components/layout/Header";
 const About = () => {
     return (
