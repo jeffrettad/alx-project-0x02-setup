@@ -1,4 +1,4 @@
-import Card from "@/components/common/Card";
+mimport Card from "@/components/common/Card";
 import { useState } from "react";
 import PostModal from "@/components/common/PostModal";
 import Header from "@/components/layout/Header";
