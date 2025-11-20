@@ -1,4 +1,4 @@
-import Head from 'next/head'
+mimport Head from 'next/head'
 
 const Home = () => {
   return (
