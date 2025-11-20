@@ -1,4 +1,4 @@
-mimport { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import UserCard from "@/components/common/UserCard";
 import { UserProps } from "@/interfaces";
 import Header from "@/components/layout/Header";
